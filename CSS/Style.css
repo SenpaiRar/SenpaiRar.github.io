@@ -1,0 +1,47 @@
+h1{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100%;
+    justify-content: center;
+    margin: 0%;
+    margin-bottom: 0.1in;
+}
+h2{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 80%;
+    justify-content: center;
+    margin:0%;
+    margin-top: 0%;
+    
+}
+h3{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50%;
+    justify-content: center;
+    margin-bottom:0%;
+    
+}
+
+hr{
+    border: 1px solid black;
+    margin: 0%;
+}
+p{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 70%;
+    justify-content: center;
+    margin-bottom:0%;
+}
+
+iframe{
+    display: block;
+    width: 600px;
+    height: 200px;
+    margin: 0 auto;
+    border: 20;
+    border-left: 0;
+
+}
